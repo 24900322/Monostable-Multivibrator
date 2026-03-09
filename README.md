@@ -72,17 +72,22 @@ The practical value closely matches the theoretical value.
 •	Used in timers, delay circuits, and pulse generation applications.
 ## Viva Questions
 1.What is a monostable multivibrator?
+
 A circuit with one stable state and one unstable state that produces a single output pulse when triggered.
 
 2.Write the pulse width formula.
+
 T = 1.1 × R × C
 
 3.What is the stable state of monostable?
+
 The normal state of the circuit where the output is LOW.
 
 4.Why is it called one-shot?
+
 Because one trigger produces one output pulse.
 
 5.What happens if capacitor value increases?
+
 Pulse width increases because charging time increases.
 
